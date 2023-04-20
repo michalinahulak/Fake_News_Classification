@@ -10,4 +10,4 @@ There are 3 datasets. All come from [kaggle.com](https://www.kaggle.com/):
 
 Separate notebooks were created for each dataset. Notebooks include data loading, preprocessing and modeling. Preprocessing was done in several ways, and each of them was tested on 3 different models. Below is the data processing and modeling algorithm.
 
-![](algorithm.jpg)
+![](algorithm_png.png)
