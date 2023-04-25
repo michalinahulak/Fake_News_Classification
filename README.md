@@ -3,6 +3,16 @@
 
 The project was created during the Advanced Data Science course. It contains a classification problem. Fake News Detection using deep learning, PyTorch, Optuna. 
 
+### Introduction
+
+The spread of fake news has become a major issue in today's world. False information spreads rapidly through social media and other online platforms, leading to widespread misinformation and confusion. Fake news can have serious implications, such as spreading misinformation, influencing public opinion, and even affecting election results. Therefore, it is important to have a reliable and accurate system for identifying fake news.
+
+### Goal
+
+The aim of this project is to develop a machine learning model that can detect fake news.
+
+### How?
+
 There are 3 datasets. All come from [kaggle.com](https://www.kaggle.com/):
 1. [WELFake_Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
 2. [Fake & Real](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv)
@@ -11,3 +21,10 @@ There are 3 datasets. All come from [kaggle.com](https://www.kaggle.com/):
 Separate notebooks were created for each dataset. Notebooks include data loading, preprocessing and modeling. Preprocessing was done in several ways, and each of them was tested on 3 different models. Below is the data processing and modeling algorithm.
 
 ![](modeling_algorithm.png)
+
+### The repository contains:
+* fakeandreal_pandasprofiling.html - - include pandas profiler report in html format for fake & real dataset
+
+
+### How to Run the Project?
+To open the project, use the git clone command or download the selected files.
