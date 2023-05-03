@@ -24,6 +24,13 @@ Separate notebooks were created for each dataset. Notebooks include data loading
 
 ### The repository contains:
 * fakeandreal_pandasprofiling.html - - include pandas profiler report in html format for fake & real dataset
+* WELFake_Fake_News_pandasprofiling.html - - include pandas profiler report in html format for WELFake_News dataset
+* 1_WELFake_Fake_News.ipynb - - include notebook with preprocessing and modeling for WELFake_News dataset
+* 2_FakeandReal.ipynb - - include notebook with preprocessing and modeling for Fake_and_real dataset
+* 3_FakeNewsnet.ipynb - - include notebook with preprocessing and modeling for Fake_news_net dataset
+* functions.py - - include functions for preprocessing datasets
+* modeling_scripts.py - - include functions for modeling
+* fake_news_detection_presentation.pdf - - include project presentation 
 
 
 ### How to Run the Project?
