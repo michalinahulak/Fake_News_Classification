@@ -1,7 +1,7 @@
 # Fake_News_Detection
 ![](fake_fact.jpg)
 
-The project was created during the Advanced Data Science course. It contains a classification problem. Fake News Detection using deep learning, PyTorch, Optuna. 
+The project was created during the Intermediate Data Science course. It contains a classification problem. Fake News Detection using deep learning, PyTorch, Optuna. 
 
 ### Introduction
 
