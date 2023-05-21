@@ -22,8 +22,12 @@ Separate notebooks were created for each dataset. Notebooks include data loading
 
 ![](modeling_algorithm.png)
 
+### Final presentation
+The presentation [fake_news_detection_presentation.pdf](https://github.com/michalinahulak/Fake_News_Detection/blob/main/fake_news_detection_presentation.pdf) delves into the problem of fake news and my approach to detecting it. I discuss the various techniques and models used in the project, as well as the evaluation metrics and results achieved. It's an informative and engaging presentation that offers valuable insights into the world of fake news detection.
+
 ### The repository contains:
 
+* fake_news_detection_presentation.pdf - - include project presentation which provides an overview of the project's goals, methods, and results
 * 1_WELFake_Fake_News.ipynb - - include notebook with preprocessing and modeling for WELFake_News dataset
 * 2_FakeandReal.ipynb - - include notebook with preprocessing and modeling for Fake_and_real dataset
 * 3_FakeNewsnet.ipynb - - include notebook with preprocessing and modeling for Fake_news_net dataset
@@ -31,7 +35,7 @@ Separate notebooks were created for each dataset. Notebooks include data loading
 * WELFake_Fake_News_pandasprofiling.html - - include pandas profiler report in html format for WELFake_News dataset
 * functions.py - - include functions for preprocessing datasets
 * modeling_scripts.py - - include functions for modeling
-* fake_news_detection_presentation.pdf - - include project presentation 
+
 
 
 ### How to Run the Project?
